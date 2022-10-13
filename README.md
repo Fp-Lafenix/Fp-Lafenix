@@ -12,9 +12,9 @@ I'm a 21 years old developer. I love coding and figuring out how to solve deep p
 * 🚀  I am currently working as a Freelancer
 * 🧠  I'm learning Javascript, Html, Css, Node.JS, SQL, DOM
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
-* ⚡  I love sports and my favorite is Crossfit
+* ⚡  I love Games, my favorites are FPS Games like Csgo
 
-<a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img 
 src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
 ### Skills
